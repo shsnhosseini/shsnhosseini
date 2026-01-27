@@ -6,7 +6,7 @@ Thanks for stopping by to check out my GitHub profile.
 ### About Me
 I'm a **Machine Learning Engineer** and **Data Analyst** with 5+ years of experience. Over the years, I've gained hands-on AI and Data Science experience by tackling projects across various fields.
 I have a passion for solving real-world problems, turning challenges into opportunities through innovative thinking and hands-on action.
-I've worked with diverse datasets and employed various methods, such as machine learning, deep learning, probability theory, statistics (descriptive and inferential), mathematics (linear algebra and optimization), to address multifaceted challenges.
+I've worked on various datasets and employed diverse methods, such as machine learning, deep learning, probability theory, statistics (descriptive and inferential), mathematics (linear algebra and optimization), to address multifaceted challenges.
 
 - 🌱 I’m currently learning Large Language Models (LLMs).
 
