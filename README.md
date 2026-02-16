@@ -16,7 +16,7 @@ I've worked on various datasets and employed diverse methods, such as machine le
 
 <p align="center">
 
-#### 🧑‍💻 Programming Languages :
+#### 🧑‍💻 Programming Languages:
 <p align="center">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" />
@@ -34,13 +34,13 @@ I've worked on various datasets and employed diverse methods, such as machine le
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/SciPy-0076A8?style=for-the-badge&logo=scipy&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white" />
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/SciPy-0076A8?style=for-the-badge&logo=scipy&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
-#### 🗃️ Databases & Storage :
+#### 🗃️ Database Management Systems:
 <p align="center">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
