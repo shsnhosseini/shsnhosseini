@@ -8,9 +8,6 @@ I'm a **Data Scientist** with 5+ years of experience. Over the years, I've gaine
 I have a passion for solving real-world problems, turning challenges into opportunities through innovative thinking and hands-on action.
 I've worked on various datasets and employed diverse methods, such as machine learning, deep learning, probability theory, statistics (descriptive and inferential), mathematics (linear algebra and optimization), to address multifaceted challenges.
 
-- 🌱 I’m currently learning Large Language Models (LLMs).
-
-
 
 ### 🛠️ Tech Stack
 
@@ -42,7 +39,7 @@ I've worked on various datasets and employed diverse methods, such as machine le
 
 #### 🗃️ Database Management Systems:
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 </p>
 
 #### 🧰 Tools & Others:
