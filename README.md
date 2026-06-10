@@ -35,8 +35,8 @@ I've worked on various datasets and employed diverse methods, such as **Machine 
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/SciPy-0076A8?style=for-the-badge&logo=scipy&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="40" height="40" alt="Excel" />
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="40" height="40" alt="Power BI" />
 </p>
 
 #### 🗃️ Database Management Systems:
