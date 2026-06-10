@@ -41,7 +41,7 @@ I've worked on various datasets and employed diverse methods, such as **Machine 
 
 #### 🗃️ Database Management Systems:
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
 #### 🧰 Tools & Others:
