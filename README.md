@@ -16,8 +16,9 @@ I've worked on various datasets and employed diverse methods, such as **Machine 
 #### 💻 Programming Languages:
 <p align="center">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/MATLAB-F37626?style=for-the-badge&logo=matlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" />
 </p>
 
 #### 🤖 Machine Learning & Deep Learning:
