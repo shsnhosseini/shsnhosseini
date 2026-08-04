@@ -47,7 +47,7 @@ I've worked on various datasets and employed diverse methods, such as **Machine 
 
 #### Image Processing:
 <p align="center">
-  <img src="https://img.shields.io/badge/OpenCV-013243?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
 #### 🧰 Tools & Others:
