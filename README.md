@@ -25,6 +25,7 @@ I've worked on various datasets and employed diverse methods, such as **Machine 
 <p align="center">
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/langChain-3C4CA0?style=for-the-badge&logo=langchain&logoColor=white" />
 </p>
 
 #### 📊 Data Science & Analytics:
