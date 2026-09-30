@@ -61,10 +61,7 @@ I've worked on various datasets and employed diverse methods, such as **Machine 
 
 #### 🚀 Deployment & UI:
 <p align="center">
-  <!-- Docker -->
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <!-- Streamlit -->
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <!-- PyQt (using Qt logo as proxy) -->
   <img src="https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
 </p>
