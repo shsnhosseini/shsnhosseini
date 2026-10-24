@@ -50,10 +50,11 @@ I turn complex data into actionable insights. Over the years, I've gained hands-
 #### 👁️ LLM Frameworks:
 <p align="center">
   <img src="https://img.shields.io/badge/langChain-3C4CA0?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-161F34?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-7FC8FF?style=for-the-badge&logo=langchain&logoColor=black" />
   <img src="https://img.shields.io/badge/Ollama-1a1a1a?style=for-the-badge&logo=ollama&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-1A1A1A?style=for-the-badge&logo=ollama&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-0268CA?style=for-the-badge&logo=ollama&logoColor=white" />
 </p>
 
 #### 👁️ Image Processing:
