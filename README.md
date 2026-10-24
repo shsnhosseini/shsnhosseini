@@ -4,7 +4,7 @@
 Thanks for stopping by to check out my GitHub profile.
 
 ### About Me
-I turn complex data into actionable insights. Over the years, I've gained hands-on AI and Data Science experience by tackling projects across various fields. I have a passion for solving real-world problems, turning challenges into opportunities through innovative thinking and hands-on action. I've worked on various datasets and employed diverse methods, such as **Machine Learning**, **Deep Learning**, **Generative AI**, **Probability Theory**, **Statistics (descriptive and inferential)**, **Linear Algebra** and **Optimization**, to address multifaceted challenges.
+I'm a **Data Scientist** with 5+ years of experience. Over the years, I've gained hands-on AI and Data Science experience by tackling projects across various fields. I have a passion for solving real-world problems, turning challenges into opportunities through innovative thinking and hands-on action. I've worked on various datasets and employed diverse methods, such as **Machine Learning**, **Deep Learning**, **Generative AI**, **Probability Theory**, **Statistics (descriptive and inferential)**, **Linear Algebra** and **Optimization**, to address multifaceted challenges.
 
 
 ### 🛠️ Tech Stack
@@ -45,10 +45,6 @@ I turn complex data into actionable insights. Over the years, I've gained hands-
 #### 🗃️ Database:
 <p align="center">
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-0078D4?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-A91D22?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database-SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   
 </p>
 
