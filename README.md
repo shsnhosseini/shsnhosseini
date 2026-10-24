@@ -47,13 +47,9 @@ I turn complex data into actionable insights. Over the years, I've gained hands-
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
-#### 👁️ LLM Frameworks:
+#### 🧠 LLM Frameworks:
 <p align="center">
   <img src="https://img.shields.io/badge/langChain-3C4CA0?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-161F34?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-7FC8FF?style=for-the-badge&logo=langchain&logoColor=black" />
   <img src="https://img.shields.io/badge/Ollama-1a1a1a?style=for-the-badge&logo=ollama&logoColor=white" />
 </p>
 
@@ -76,7 +72,10 @@ I turn complex data into actionable insights. Over the years, I've gained hands-
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/OpenCode-3B82F6?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=opencode&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCode-007AFF?style=for-the-badge&logo=opencode&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCode-201D1D?style=for-the-badge&logo=opencode&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Coding_Agent-OpenCode-000000?style=for-the-badge&logo=opencode&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Cline-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Continue-F7931E?style=for-the-badge&logo=vscodium&logoColor=white" />
