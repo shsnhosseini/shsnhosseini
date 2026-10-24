@@ -73,9 +73,7 @@ I turn complex data into actionable insights. Over the years, I've gained hands-
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=opencode&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCode-007AFF?style=for-the-badge&logo=opencode&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCode-201D1D?style=for-the-badge&logo=opencode&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Coding_Agent-OpenCode-000000?style=for-the-badge&logo=opencode&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=opencode&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Cline-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Continue-F7931E?style=for-the-badge&logo=vscodium&logoColor=white" />
