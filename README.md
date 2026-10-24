@@ -17,6 +17,10 @@ I turn complex data into actionable insights. Over the years, I've gained hands-
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/MATLAB-F37626?style=for-the-badge&logo=matlab&logoColor=white" />
   <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-1F65B7?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-FFD43B?style=for-the-badge&logo=r&logoColor=blue" />
 </p>
 
 #### 🤖 Model Development and Management:
