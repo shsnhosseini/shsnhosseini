@@ -4,9 +4,7 @@
 Thanks for stopping by to check out my GitHub profile.
 
 ### About Me
-I'm a **Data Scientist** with 5+ years of experience. Over the years, I've gained hands-on AI and Data Science experience by tackling projects across various fields.
-I have a passion for solving real-world problems, turning challenges into opportunities through innovative thinking and hands-on action.
-I've worked on various datasets and employed diverse methods, such as **Machine Learning**, **Deep Learning**, **Generative AI**, **Probability Theory**, **Statistics (descriptive and inferential)**, **Linear Algebra** and **Optimization**, to address multifaceted challenges.
+I turn complex data into actionable insights. Over the years, I've gained hands-on AI and Data Science experience by tackling projects across various fields. I have a passion for solving real-world problems, turning challenges into opportunities through innovative thinking and hands-on action. I've worked on various datasets and employed diverse methods, such as **Machine Learning**, **Deep Learning**, **Generative AI**, **Probability Theory**, **Statistics (descriptive and inferential)**, **Linear Algebra** and **Optimization**, to address multifaceted challenges.
 
 
 ### 🛠️ Tech Stack
@@ -21,12 +19,14 @@ I've worked on various datasets and employed diverse methods, such as **Machine 
   <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" />
 </p>
 
-#### 🤖 Machine Learning & Deep Learning:
+#### 🤖 Model Development and Management:
 <p align="center">
+  <img src="https://img.shields.io/badge/imbalanced--learn-F7931E?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-ED2B24?style=for-the-badge&logo=xgboost&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/langChain-3C4CA0?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000000" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
 </p>
 
 #### 📊 Data Science & Analytics:
@@ -45,6 +45,12 @@ I've worked on various datasets and employed diverse methods, such as **Machine 
 #### 🗃️ Database:
 <p align="center">
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+</p>
+
+#### 👁️ LLM Frameworks:
+<p align="center">
+  <img src="https://img.shields.io/badge/langChain-3C4CA0?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-1a1a1a?style=for-the-badge&logo=ollama&logoColor=white" />
 </p>
 
 #### 👁️ Image Processing:
@@ -66,4 +72,10 @@ I've worked on various datasets and employed diverse methods, such as **Machine 
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenCode-3B82F6?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cline-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Continue-F7931E?style=for-the-badge&logo=vscodium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kilo_Code-10B981?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+
 </p>
