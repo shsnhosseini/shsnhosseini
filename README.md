@@ -28,6 +28,7 @@ I turn complex data into actionable insights. Over the years, I've gained hands-
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000000" />
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/GPU--accelerated%20model%20training-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
 #### 📊 Data Science & Analytics:
