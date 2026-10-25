@@ -31,7 +31,7 @@ I turn complex data into actionable insights. Over the years, I've gained hands-
   <img src="https://img.shields.io/badge/GPU--accelerated%20model%20training-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
-#### 📊 Data Science & Analytics:
+#### 📊 Data Analytics and Visualization:
 <p align="center">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -43,7 +43,7 @@ I turn complex data into actionable insights. Over the years, I've gained hands-
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
-#### 🗃️ Database:
+#### 🛢️ Database:
 <p align="center">
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
