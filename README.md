@@ -53,6 +53,7 @@ I turn complex data into actionable insights. Over the years, I've gained hands-
 <p align="center">
   <img src="https://img.shields.io/badge/langChain-3C4CA0?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/Ollama-1a1a1a?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_GenAI_SDK-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google GenAI SDK" />
 </p>
 
 #### 👁️ Image Processing:
